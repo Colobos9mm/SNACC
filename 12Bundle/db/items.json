@@ -1,0 +1,53 @@
+{
+  "690368af7c8f3768278de1b3": {
+        "newId": "690368af7c8f3768278de1b3",
+        "itemTplToClone": "5c093db286f7740a1b2617e3",
+        "parentId": "5795f317245977243854e041",
+        "handbookParentId": "5b5f6fa186f77409407a7eb7",
+        "handbookPriceRoubles": 150000,
+        "fleaPriceRoubles": 150000,
+        "locales": {
+            "en": {
+                "name": "SNACC Pack",
+                "shortName": "SNACC",
+                "description": "Handy Lunch Bag, for all those goodies."
+            }
+        },
+        "overrideProperties": {
+      "Grids": [
+        {
+          "_id": "6904a036bcac318d92724522",
+          "_name": "main",
+          "_parent": "5c093db286f7740a1b2617e3",
+          "_props": {
+            "cellsH": 4,
+            "cellsV": 4,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "5af0484c86f7740f02001f7f",
+                  "5e54f6af86f7742199090bf3",
+                  "5bc9be8fd4351e00334cae6e",
+                  "543be6674bdc2df1348b4569",
+                  "6389c6463485cf0eeb260715",
+                  "67586af7036d7f3da60c3612",
+                  "67586b7e49c2fa592e0d8ed9"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Prefab": {
+        "path": "assets/content/items/containers/item_container_money/snaccPack.bundle"
+      },
+			"Weight": 0.5
+     }
+	}
+}
